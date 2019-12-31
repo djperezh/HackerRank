@@ -1,0 +1,10 @@
+.vscode/launch.json
+.vscode/tasks.json
+obj/Debug/netcoreapp2.2/HackerRank.AssemblyInfo.cs
+obj/Debug/netcoreapp2.2/HackerRank.assets.cache
+bin/Debug/netcoreapp2.2/HackerRank.dll
+bin/Debug/netcoreapp2.2/HackerRank.pdb
+obj/Debug/netcoreapp2.2/HackerRank.AssemblyInfo.cs
+obj/Debug/netcoreapp2.2/HackerRank.assets.cache
+obj/Debug/netcoreapp2.2/HackerRank.dll
+obj/Debug/netcoreapp2.2/HackerRank.pdb
